@@ -16,10 +16,7 @@ CodeOptimizer is an AI-driven Spring Boot & MongoDB platform that analyzes, opti
 3. Restart eclipse
 4. Select **File → New → Other -> Spring Starter Project**
 5. Choose **Maven** as the build tool
-6. Add dependencies - Spring Boot DevTools
-                    - Spring Data MongoDB
-                    - Spring Web
-                    - Thymeleaf
+6. Add dependencies - **Spring Boot DevTools, Spring Data MongoDB, Spring Web, Thymeleaf**
 7. Run **CodeOptimizerApplication.java** file as Spring Boot App 
 
 
